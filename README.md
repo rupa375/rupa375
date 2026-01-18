@@ -51,12 +51,7 @@ I enjoy building scalable web applications, writing clean code, and solving prob
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_USERNAME&theme=default" height="160"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default"/>
